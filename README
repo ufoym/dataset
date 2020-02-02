@@ -1,1 +1,26 @@
+Introduction
+
+This dataset only contains the LFW (Labeled Faces in the Wild) dataset.
+
+```
+Labeled Faces in the Wild is a public benchmark for face verification, also known as pair matching. It is a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set. The only constraint on these faces is that they were detected by the Viola-Jones face detector. 
+```
+
+The original image data from http://vis-www.cs.umass.edu/lfw/lfw.tgz has been put into `images`.
+The original label data from http://vis-www.cs.umass.edu/lfw/pairs.txt has been put into `ground_truth`.
+
+## Citation
+
+```
+@TechReport{LFWTech,
+  author =       {Gary B. Huang and Manu Ramesh and Tamara Berg and 
+                  Erik Learned-Miller},
+  title =        {Labeled Faces in the Wild: A Database for Studying 
+                  Face Recognition in Unconstrained Environments},
+  institution =  {University of Massachusetts, Amherst},
+  year =         2007,
+  number =       {07-49},
+  month =        {October}
+  }
+```
 
