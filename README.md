@@ -11,11 +11,11 @@ Wider Facial Landmarks in-the-wild (WFLW) contains 10000 faces (7500 for trainin
 
 ```
 @inproceedings{wayne2018lab,
- author = {Wu, Wayne and Qian, Chen and Yang, Shuo and Wang, Quan and Cai, Yici and Zhou, Qiang},
-  title = {Look at Boundary: A Boundary-Aware Face Alignment Algorithm},
-   booktitle = {CVPR},
+    author = {Wu, Wayne and Qian, Chen and Yang, Shuo and Wang, Quan and Cai, Yici and Zhou, Qiang},
+    title = {Look at Boundary: A Boundary-Aware Face Alignment Algorithm},
+    booktitle = {CVPR},
     month = June,
-     year = {2018}
+    year = {2018}
 }
 ```
 
